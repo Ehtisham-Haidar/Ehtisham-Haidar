@@ -26,7 +26,6 @@
 ### Tier 1: Advanced Security Certifications
 
 #### 1. CompTIA PenTest+
-**Authority**: CompTIA | **Level**: Advanced | **Validity**: 3 Years
 
 **What It Covers**:
 - Penetration testing planning and scoping
@@ -108,7 +107,6 @@
 ---
 
 #### 4. RHCSA – Red Hat Certified SysAdmin
-**Authority**: Red Hat | **Level**: Intermediate-Advanced
 
 **What It Covers**:
 - RHEL system installation and configuration
