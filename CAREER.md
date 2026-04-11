@@ -33,7 +33,7 @@
    - Assisted with vulnerability analysis
    - Conducted CVE research
 
-2. **CipherStrike Framework Developer** (Month 2-3):
+2. **CipherStrike Framework Developer**:
    - **Promoted** to Command Injection Module Owner
    - Led module architecture and implementation
    - Managed team integration and bug resolution
@@ -83,7 +83,7 @@
 ---
 
 #### Cyber Threat Intelligence Analyst | **NCERT Islamabad**
-**Duration**: 2024 (3-4 months)
+**Duration**: 2025 (1 months)
 
 **Organization**: National Center for Cybersecurity - Pakistan's national cybersecurity agency
 
@@ -106,10 +106,9 @@
 
 ### B.Sc. Computer Science
 **Institution**: Muhammad Nawaz Sharif University of Agriculture, Multan (MNSUAM)  
-**Year**: 2024  
+**Year**: 202  
 **Honors**: Merit-based admission  
-**Focus Areas**: Cybersecurity, Networking, Software Engineering
-
+**Focus Areas**: Cybersecurity, Networking
 **Relevant Coursework**:
 - Network Security & Cryptography
 - Operating Systems & Linux Administration
@@ -140,7 +139,7 @@ Comprehensive cybersecurity certification covering reconnaissance, enumeration, 
 **CCNA: Introduction to Networking** | Cisco  
 Foundation-level networking certification covering OSI model, TCP/IP, routing, switching, and network design principles
 
-**RHCSA – Red Hat Certified SysAdmin** | Red Hat  
+**RHCSA – Red Hat Certified SysAdmin** 
 Linux system administration certification validating hands-on capabilities in Red Hat Enterprise Linux (RHEL) deployment and management
 
 #### Tier 3: Specialized Security Credentials
@@ -164,7 +163,7 @@ Open-source intelligence and critical infrastructure protection training for thr
 ### Detailed Certification Profiles
 
 #### Certified Ethical Hacker (CEH v13) | EC-Council
-**Earned**: 2024  
+**Earned**: 2025  
 **Validity**: Lifetime (EC-Council)  
 **Domains Covered**:
 - Reconnaissance and scanning
@@ -180,9 +179,8 @@ Open-source intelligence and critical infrastructure protection training for thr
 
 ---
 
-#### CompTIA PenTest+ | CompTIA
-**Earned**: 2024  
-**Validity**: 3 years  
+#### CompTIA PenTest+ 
+**Earned**: 2025    
 **Key Domains**:
 - Penetration testing planning and scoping
 - Information gathering and vulnerability identification
@@ -197,7 +195,7 @@ Open-source intelligence and critical infrastructure protection training for thr
 ---
 
 #### CCNA: Introduction to Networking | Cisco
-**Earned**: 2024  
+**Earned**: 2025  
 **Focus Areas**:
 - OSI model and TCP/IP protocols
 - IP addressing and subnetting
@@ -209,8 +207,8 @@ Open-source intelligence and critical infrastructure protection training for thr
 
 ---
 
-#### RHCSA – Red Hat Certified SysAdmin | Red Hat
-**Earned**: 2024  
+#### RHCSA – Red Hat Certified SysAdmin
+**Earned**: 2025
 **Core Competencies**:
 - RHEL system installation and configuration
 - User and group management
@@ -224,45 +222,7 @@ Open-source intelligence and critical infrastructure protection training for thr
 
 ---
 
-## 🚀 Current Focus (2026)
-
-### 1. Master's Program Applications
-**Target Program**: MSc Cybersecurity with Excellence Scholarship  
-**Institution**: University of Padova (Università di Padova), Italy  
-**Intake**: September 2026  
-**Status**: Applications in progress
-
-**Selection Criteria**:
-- Fully-funded scholarship (tuition + living expenses)
-- No IELTS required (English-medium program)
-- Strong cybersecurity research focus
-- Opportunity for thesis in offensive security or threat intelligence
-
-**Backup Programs Being Explored**:
-- Germany: Technical University of Darmstadt (TU Darmstadt)
-- UK: University of Edinburgh, Royal Holloway
-- Switzerland: ETH Zurich
-- EU Erasmus Mundus programs (cross-border)
-- Japan: Tokyo Tech, Osaka University
-- Singapore: Nanyang Technological University (NTU)
-- South Korea: KAIST, Seoul National University (SNU)
-
-**Application Materials Prepared**:
-- Motivation letter emphasizing research interests
-- CV tailored to academic context (one-page professional)
-- Academic transcripts and university attestations
-- Letters of recommendation from supervisors
-- Visa documentation and government attestations
-
-**Timeline**:
-- Motivation letter drafting: ✅ (University of Padova)
-- CV refinement: ✅ (Academic version)
-- Attestation chain: ✅ (HEC → MOFA → CIMEA/Declaration of Value)
-- Application submission: In progress (deadlines vary by program)
-
----
-
-### 2. Job Market Engagement
+### 1. Job Market Engagement
 **Target Roles**:
 - **Level 1 SOC Analyst**: CureMD, local healthcare providers
   - Reframed offensive experience into defensive language
@@ -286,7 +246,7 @@ Open-source intelligence and critical infrastructure protection training for thr
 
 ---
 
-### 3. Bug Bounty Hunting
+### 2. Bug Bounty Hunting
 **Active Programs**:
 - **HackenProof**: Low-competition vulnerability hunting
   - Focus on smaller programs with higher acceptance rates
@@ -362,7 +322,7 @@ Open-source intelligence and critical infrastructure protection training for thr
 
 **Current Location**: Lahore, Pakistan  
 **Timezone**: Pakistan Standard Time (PKT, UTC+5)  
-**Willing to Relocate**: Yes (especially for Master's program or senior role)
+**Willing to Relocate**: Yes 
 
 **Professional Network**:
 - NCERT Islamabad (national cybersecurity agency)
