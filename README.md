@@ -23,8 +23,8 @@ Hands-on cybersecurity professional with **1+ years of professional experience**
 ## 🏆 Quick Stats
 
 ```
-📜 Certifications:     9 Professional Credentials (2024)
-🎓 Education:         B.Sc. Computer Science (2024)
+📜 Certifications:     9 Professional Credentials 
+🎓 Education:         B.Sc. Computer Science (2025)
 💼 Professional Roles: 3 (Penetration Tester, Intern, Threat Analyst)
 🔓 Exploits Created:  2+ Custom Tools
 📊 CVEs Analyzed:     3+
@@ -145,9 +145,6 @@ Exploit development • Web app security (OWASP Top 10) • Network reconnaissan
 🔍 **Bug Bounty Hunting**  
 Active on HackenProof, Intigriti, YesWeHack (automation + vulnerability research)
 
-📚 **Master's Program Applications**  
-Targeting fully-funded MSc Cybersecurity (Sep 2026)  
-Primary: University of Padova (Italy) | Also: Germany, UK, Switzerland, EU programs
 
 🚀 **Advanced Certifications**  
 Next: OSCP (Offensive Security Certified Professional)
