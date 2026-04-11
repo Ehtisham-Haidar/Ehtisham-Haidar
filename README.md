@@ -16,8 +16,6 @@ Hands-on cybersecurity professional with **1+ years of professional experience**
 - 🛠️ Modular security framework design
 - 📚 Security research & documentation
 
-**Currently**: Seeking fully-funded Master's in Cybersecurity (Sep 2026 intake) + active bug bounty hunting
-
 ---
 
 ## 🏆 Quick Stats
